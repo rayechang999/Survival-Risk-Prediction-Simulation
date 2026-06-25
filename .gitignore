@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+env/
+venv/
+.venv/
+
+# Ignore data and results content locally, but keep the directories
+data/*
+!data/.gitkeep
+
+results/*
+!results/.gitkeep
