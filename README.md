@@ -39,4 +39,16 @@ The **feature budget** acts as both capacity and regularization: a budget near t
 
 ## Citation
 
-Ruihao Huang, Hao Zhu, Yue Huang et al. Development of A Scoring System via An Interpretable End-to-end Neural Network for Prognostic Stratification of Patients with Advanced Melanoma, 18 December 2025, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-8118762/v1]
+## Citation
+
+Please cite our paper in [*npj Digital Medicine*](https://www.nature.com/articles/s41746-026-03379-7):
+
+```bibtex
+@article{huang2026scorenet,
+  title   = {Development of a scoring system via an interpretable end-to-end neural network for prognostic stratification of patients with advanced melanoma},
+  author  = {Huang, Ruihao and Zhu, Hao and Huang, Yue and Zhang, Hanrui and Guan, Yuanfang and Wang, Menglun and Zhang, Lixia and Gong, Yutao and Zhao, Hong and Huang, Shiew-Mei and Zineh, Issam and Shen, Yuan Li and Feng, Ge and Lemery, Steven and Theoret, Marc R. and Fashoyin-Aje, Lola and Wang, Shenggang and Tiwari, Mo and Zou, James and Thrun, Sebastian and Liu, Qi},
+  journal = {npj Digital Medicine},
+  year    = {2026},
+  doi     = {10.1038/s41746-026-03379-7},
+  url     = {[https://doi.org/10.1038/s41746-026-03379-7](https://doi.org/10.1038/s41746-026-03379-7)}
+}
