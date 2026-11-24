@@ -39,8 +39,6 @@ The **feature budget** acts as both capacity and regularization: a budget near t
 
 ## Citation
 
-## Citation
-
 Please cite our paper in [*npj Digital Medicine*](https://www.nature.com/articles/s41746-026-03379-7):
 
 ```bibtex
